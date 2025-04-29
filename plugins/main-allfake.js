@@ -47,7 +47,7 @@ var handler = async function (m, conn, db) {
 
     // Lista de canales
     let canalIdM = ["120363398043363641@newsletter", "120363398043363641@newsletter"]
-    let canalNombreM = ["𝐁𝐫𝐚𝐚𝐧𝐁𝐨𝐭 🥷🏼", "✧┊┋◟𝐁𝐫𝐚𝐚𝐧𝐁𝐨𝐭 🥷🏼◞┊┋✧"]
+    let canalNombreM = ["Streaming Anilu", "✧┊┋◟Streaming Anilu◞┊┋✧"]
     
     async function getRandomChannel() {
         let randomIndex = Math.floor(Math.random() * canalIdM.length)
