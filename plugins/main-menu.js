@@ -641,10 +641,7 @@ Escribeme al privado para renta o personalización de Bots.
 ╭──🌸 *herramientas* 】
 ┋🎀•  .clima *<ciudad/país>*
 ╰──🌸
- > 𝙏𝙚𝙖𝙢 𝐘𝐀𝐒 𝐁𝐎𝐓  
-
- > 𝙏𝙚𝙖𝙢 𝐁𝐫𝐚𝐚𝐧𝐁𝐨𝐭 🥷🏼
-`
+ > Streaming Anilu`
 
 const fkontak = {
         "key": {
